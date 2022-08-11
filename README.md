@@ -1,4 +1,5 @@
-- 👋 Hi, I’m an aspiring software engineer
+- 👋 Hi, I’m Muhammad
+-    I am an aspiring software engineer
 - 👀 I’m interested in learning good stuff
 - 🌱 I’m undergoing the ALX software engineering program
 - 💞️ I’m looking to collaborate on on anything that will be useful to me
