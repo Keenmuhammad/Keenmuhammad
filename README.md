@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/keen_muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keen_muhammad" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad i. bello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad i. bello" height="30" width="40" /></a>
-<a href="https://instagram.com/@keenmuhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@keenmuhammad" height="30" width="40" /></a>
+<a href="https://instagram.com/keenmuhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@keenmuhammad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
