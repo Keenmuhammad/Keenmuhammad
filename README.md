@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-cloudblog-publish%2Foriginal_images%2FDataAnalytics.gif&imgrefurl=https%3A%2F%2Fcloud.google.com%2Fblog%2Fproducts%2Fdata-analytics%2Fcloud-data-analytics-news-and-features&tbnid=Nf375oMh55SrrM&vet=12ahUKEwisv72H-Pn7AhUNw4UKHWERAqwQMygVegUIARCvAg..i&docid=qyUr7oUarH-orM&w=2880&h=1200&q=data%20analysis%20gif%20images&ved=2ahUKEwisv72H-Pn7AhUNw4UKHWERAqwQMygVegUIARCvAg)
+[![MasterHead](https://cdn.vectorstock.com/i/1000x1000/69/63/robotics-programming-isometric-3d-banner-header-vector-24276963.webp)
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim bello</h1>
 <h3 align="center">A passionate Data Analyst From Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fgist%2Ftheintel%2F08ef8fb89ca9723215fd7cf555296c98%2Fraw%2Ffeef4367c64ef24c8c7bd6eefcd55ceb29901b10%2Fwi.gif&imgrefurl=https%3A%2F%2Fgist.github.com%2Ftheintel%2F08ef8fb89ca9723215fd7cf555296c98&tbnid=bm-5ttG2JLMj3M&vet=12ahUKEwiIr7WL_Pn7AhXE6LsIHbDXDnYQMyhiegUIARDTAQ..i&docid=gKaP3eCV6HkGlM&w=480&h=360&q=funny%20coding%20gifs&ved=2ahUKEwiIr7WL_Pn7AhXE6LsIHbDXDnYQMyhiegUIARDTAQ">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keenmuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="keenmuhammad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/keen_muhammad" target="blank"><img src="https://img.shields.io/twitter/follow/keen_muhammad?logo=twitter&style=for-the-badge" alt="keen_muhammad" /></a> </p>
