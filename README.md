@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **R**
 
-- 🌱 I’m currently learning **Software Engineering (ALX), Data Analysis**
-
 - 👯 I’m looking to collaborate on **R and Python**
 
 - 🤝 I’m looking for help with **R and Python**
